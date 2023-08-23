@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Architecture Diagram:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (205)](https://github.com/prashant-2309/facial-recognition-app-using-aws-api-gateway/assets/95036647/0c9d7a05-cfcc-468e-aaee-fa6f8a38a1bc)
+
 
 # Screenshots of localhost:
 
@@ -13,6 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Screenshot (brad)](https://github.com/prashant-2309/facial-recognition-app-using-aws-api-gateway/assets/95036647/081b5dae-9ebe-45ad-baae-b343166ec3a3)
 
 
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
