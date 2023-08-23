@@ -13,7 +13,7 @@ function App() {
     setVisitorName(image.name);
     const visitorImageName = uuid.v4();
     
-    const imageUrl = `https://ys28bydtsj.execute-api.us-east-1.amazonaws.com/dev/prashant-visitor-image/${visitorImageName}.jpeg`;
+    const imageUrl = `https://**********.execute-api.us-east-1.amazonaws.com/dev/prashant-visitor-image/${visitorImageName}.jpeg`;
     
     try {
       await fetch(imageUrl, {
@@ -41,7 +41,7 @@ function App() {
   }
 
   async function authenticate(visitorImageName) {
-    const requestUrl = `https://ys28bydtsj.execute-api.us-east-1.amazonaws.com/dev/employee?objectKey=${visitorImageName}.jpeg`;
+    const requestUrl = `https://**********.execute-api.us-east-1.amazonaws.com/dev/employee?objectKey=${visitorImageName}.jpeg`;
     try {
       const response = await fetch(requestUrl, {
         method: 'GET',
