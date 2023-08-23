@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Screenshots of localhost:
+
+![Screenshot (204)](https://github.com/prashant-2309/facial-recognition-app-using-aws-api-gateway/assets/95036647/8e49a611-cf8c-40a4-af90-e90f8a6339ab)
+
+![Screenshot (bill)](https://github.com/prashant-2309/facial-recognition-app-using-aws-api-gateway/assets/95036647/408f9905-176d-4b89-b40b-fa4a10116a97)
+
+![Screenshot (sundar)](https://github.com/prashant-2309/facial-recognition-app-using-aws-api-gateway/assets/95036647/5d160d7a-231e-449f-8c3a-cb52c69b2a98)
+
+![Screenshot (brad)](https://github.com/prashant-2309/facial-recognition-app-using-aws-api-gateway/assets/95036647/081b5dae-9ebe-45ad-baae-b343166ec3a3)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
